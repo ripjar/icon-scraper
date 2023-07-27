@@ -19,4 +19,6 @@ Once you have these dependencies installed you should be able to run the example
     python font-awesome-scraper.py
 ```
 The script will write the glyphs to a file in JSON format, along with an icon "id" and "label".
-This can be pasted into the icons array of the font configuration block of a Labyrinth Investigations schema.
+This can be pasted into the icons array of the font configuration block of a Labyrinth Investigations schema.  
+  
+The file example_fontawesome_output.txt shows what the output file contents looks like.
