@@ -1,5 +1,8 @@
 # icon-scraper
-Python script using selenium to scrape a webpage for glyphs.
+Python script using selenium to scrape a webpage for glyphs. This particular example connects to the font-awesome website's icon library and simulates the action of clicking and copy-pasting icons into a file.  
+You will have to leave the script running and not do anything else until it's completed otherwise it will interrupt the automated clicking actions. Not ideal, but still better than having to do all the copy-pasting manually!  
+
+You can use this script as a guide or template for connecting to a website of your choosing and scraping icons from there. It's likely you'll have to modify the code to work with the HTML structure of the webpage you are automating actions on, but the example script may be good as a starting point.
 
 ## Requirements
 You will need Python 3 to run the script. I specifically used 3.10.8, but any minor version should do.
